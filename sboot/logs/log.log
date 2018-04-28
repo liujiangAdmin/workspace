@@ -1,0 +1,73 @@
+[INFO ] 2018-04-12 15:22:01,201 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 14200 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:22:01,201 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:22:01,201 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:22:09,655 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 12308 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:22:09,655 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:22:09,656 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:22:17,801 com.ucmed.SbootApplication - Started SbootApplication in 8.544 seconds (JVM running for 10.174)
+[DEBUG] 2018-04-12 15:22:25,256 com.ucmed.LoggerController - This is a debug message
+[INFO ] 2018-04-12 15:22:25,256 com.ucmed.LoggerController - This is an info message
+[WARN ] 2018-04-12 15:22:25,256 com.ucmed.LoggerController - This is a warn message
+[ERROR] 2018-04-12 15:22:25,256 com.ucmed.LoggerController - This is an error message
+[INFO ] 2018-04-12 15:23:18,935 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 12308 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:23:18,937 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:23:18,937 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:23:22,150 com.ucmed.SbootApplication - Started SbootApplication in 3.295 seconds (JVM running for 74.522)
+[DEBUG] 2018-04-12 15:23:30,865 com.ucmed.LoggerController - This is a debug message
+[INFO ] 2018-04-12 15:23:30,865 com.ucmed.LoggerController - This is an info message
+[WARN ] 2018-04-12 15:23:30,865 com.ucmed.LoggerController - This is a warn message
+[ERROR] 2018-04-12 15:23:30,865 com.ucmed.LoggerController - This is an error message
+[DEBUG] 2018-04-12 15:23:31,727 com.ucmed.LoggerController - This is a debug message
+[INFO ] 2018-04-12 15:23:31,727 com.ucmed.LoggerController - This is an info message
+[WARN ] 2018-04-12 15:23:31,727 com.ucmed.LoggerController - This is a warn message
+[ERROR] 2018-04-12 15:23:31,727 com.ucmed.LoggerController - This is an error message
+[INFO ] 2018-04-12 15:23:44,891 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 17928 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:23:44,891 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:23:44,891 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:23:52,831 com.ucmed.SbootApplication - Started SbootApplication in 8.283 seconds (JVM running for 9.989)
+[DEBUG] 2018-04-12 15:25:40,436 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==>  Preparing: SELECT count(0) FROM t_user 
+[DEBUG] 2018-04-12 15:25:40,448 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==> Parameters: 
+[DEBUG] 2018-04-12 15:25:40,519 com.ucmed.dao.UserMapper.selectAllUser_COUNT - <==      Total: 1
+[DEBUG] 2018-04-12 15:25:40,525 com.ucmed.dao.UserMapper.selectAllUser - ==>  Preparing: select user_id, user_name, password, phone from t_user LIMIT ? 
+[DEBUG] 2018-04-12 15:25:40,525 com.ucmed.dao.UserMapper.selectAllUser - ==> Parameters: 1(Integer)
+[DEBUG] 2018-04-12 15:25:40,526 com.ucmed.dao.UserMapper.selectAllUser - <==      Total: 1
+[DEBUG] 2018-04-12 15:30:53,791 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==>  Preparing: SELECT count(0) FROM t_user 
+[DEBUG] 2018-04-12 15:30:53,792 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==> Parameters: 
+[DEBUG] 2018-04-12 15:30:53,792 com.ucmed.dao.UserMapper.selectAllUser_COUNT - <==      Total: 1
+[DEBUG] 2018-04-12 15:30:53,793 com.ucmed.dao.UserMapper.selectAllUser - ==>  Preparing: select user_id, user_name, password, phone from t_user LIMIT ? 
+[DEBUG] 2018-04-12 15:30:53,793 com.ucmed.dao.UserMapper.selectAllUser - ==> Parameters: 1(Integer)
+[DEBUG] 2018-04-12 15:30:53,794 com.ucmed.dao.UserMapper.selectAllUser - <==      Total: 1
+[INFO ] 2018-04-12 15:53:53,836 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 17928 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:53:53,836 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:53:53,836 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:53:57,043 com.ucmed.SbootApplication - Started SbootApplication in 3.274 seconds (JVM running for 1814.197)
+[INFO ] 2018-04-12 15:55:42,096 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 17928 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:55:42,096 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:55:42,096 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:55:45,622 com.ucmed.SbootApplication - Started SbootApplication in 3.583 seconds (JVM running for 1922.775)
+[INFO ] 2018-04-12 15:55:53,684 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 16256 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 15:55:53,685 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 15:55:53,685 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 15:56:02,310 com.ucmed.SbootApplication - Started SbootApplication in 9.009 seconds (JVM running for 10.564)
+[DEBUG] 2018-04-12 15:56:20,895 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==>  Preparing: SELECT count(0) FROM t_user 
+[DEBUG] 2018-04-12 15:56:20,908 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==> Parameters: 
+[DEBUG] 2018-04-12 15:56:20,919 com.ucmed.dao.UserMapper.selectAllUser_COUNT - <==      Total: 1
+[DEBUG] 2018-04-12 15:56:20,924 com.ucmed.dao.UserMapper.selectAllUser - ==>  Preparing: select user_id, user_name, password, phone from t_user LIMIT ? 
+[DEBUG] 2018-04-12 15:56:20,925 com.ucmed.dao.UserMapper.selectAllUser - ==> Parameters: 1(Integer)
+[DEBUG] 2018-04-12 15:56:20,926 com.ucmed.dao.UserMapper.selectAllUser - <==      Total: 1
+[INFO ] 2018-04-12 16:00:56,630 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 16256 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 16:00:56,630 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 16:00:56,630 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 16:01:03,337 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 16256 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 16:01:03,337 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 16:01:03,337 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 16:01:26,629 com.ucmed.SbootApplication - Starting SbootApplication on ZY-LJ-1446 with PID 2392 (E:\renderGitHub\work\sboot\target\classes started by ZY-LJ-1446 in E:\renderGitHub\work\sboot)
+[DEBUG] 2018-04-12 16:01:26,630 com.ucmed.SbootApplication - Running with Spring Boot v2.0.0.RELEASE, Spring v5.0.4.RELEASE
+[INFO ] 2018-04-12 16:01:26,630 com.ucmed.SbootApplication - The following profiles are active: dev
+[INFO ] 2018-04-12 16:01:34,597 com.ucmed.SbootApplication - Started SbootApplication in 8.308 seconds (JVM running for 9.799)
+[DEBUG] 2018-04-12 16:02:19,252 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==>  Preparing: SELECT count(0) FROM t_user 
+[DEBUG] 2018-04-12 16:02:19,268 com.ucmed.dao.UserMapper.selectAllUser_COUNT - ==> Parameters: 
+[DEBUG] 2018-04-12 16:02:19,279 com.ucmed.dao.UserMapper.selectAllUser_COUNT - <==      Total: 1
+[DEBUG] 2018-04-12 16:02:19,284 com.ucmed.dao.UserMapper.selectAllUser - ==>  Preparing: select user_id, user_name, password, phone from t_user LIMIT ? 
+[DEBUG] 2018-04-12 16:02:19,285 com.ucmed.dao.UserMapper.selectAllUser - ==> Parameters: 1(Integer)
+[DEBUG] 2018-04-12 16:02:19,286 com.ucmed.dao.UserMapper.selectAllUser - <==      Total: 1
